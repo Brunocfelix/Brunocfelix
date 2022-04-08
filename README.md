@@ -1,8 +1,7 @@
-### Olá! Eu sou o Bruno Felix 👋
+### Hi! I'm Bruno Felix 👋
 
-- 🔭 Hoje eu trabalho com Business Inteligence (BI)
-- 🌱 Hoje estou estudando linguagens de programações diversas na faculdade de Engenharia da Computação.
-- 🤔 Estou buscando mais conhecimento nas áreas de criação, de projetos, de desenvolvimento, dentre outras áreas da computação.
-- 😄 Pronouns: ele/dele
-- ⚡ Fun fact: Professor de Dança de Salão nas horas vagas
--->
+- 🔭 Today I have a job in Business Inteligence (BI).
+- ✌ I'm studying types of programming language in college, which by the way I'm majoring in computer engineering.
+- 🤔 I'm looking for more knowledge in areas of creation, projects, development, among other areas of computing.
+- 😄 Pronouns: ele/dele.
+- 🎶 Fun fact: Ballroom dance teacher in spare time.
